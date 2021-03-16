@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css' //CSSモジュールをインポートする
 import Link from 'next/link'
 
-const name = 'yt3trees'
+const name = 'ytmori'
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
